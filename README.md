@@ -1,4 +1,3 @@
-# Nicholasbabs.github.io
 # Project 1
 
 **Title**: [Office Supplies and Equipment Company Sales Trends](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Office%20Equipment%20Analysis.xlsx)
@@ -13,7 +12,7 @@ Total Orders  per Month: A monthly breakdown of orders, providing insights into 
 
 Profit by Month: Displays the monthly profit, allowing for easy comparison of profitability throughout the year.
 
-Total Sales and Profit by Categories: Highlights the total revenue generated in each country, showcasing the performance in different markets.
+Total Sales and Profit by Categories: This report highlights the total revenue generated in each country and showcases the performance in different markets.
 
 Additionally, the dashboard includes interactive slicers and timeline for:
 
@@ -32,7 +31,7 @@ Top-Performing Products: Highlighted the products such as phones and chairs that
 
 Sales Volatility: Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
 
-This dashboard serves as a crucial tool for the  company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+This dashboard is a crucial tool for the company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 
 **Dashboard Overview**:
