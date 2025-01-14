@@ -1,11 +1,11 @@
 # Nicholasbabs.github.io
 # Project 1
 
-**Title**:
+**Title**:Office Supplies and Equipment Company Sales Trends
 
-**Tools Used**:Microsoft Excel, Pivot Tables, Slicers, Sum Functions, 
+**Tools Used**:Microsoft Excel, Pivot Tables, Slicers.
 
-**Project Description**: This project involved analysing product data of an Office Supplies and Equipment Company company to identify trends and patterns in sales performance between 2014-2017. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different states, products, and time periods. The dashboard includes the following features:
+**Project Description**: This project involved analysing product data of an Office Supplies and Equipment Company to identify trends and patterns in sales performance between 2014-2017. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different states, products, and time periods. The dashboard includes the following features:
 
 Sales by States and Regions: Visual representation of sales broken down by top 10 states and regions.
 
