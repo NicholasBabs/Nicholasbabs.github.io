@@ -45,7 +45,7 @@ This dashboard is a crucial tool for the company’s management team, providing 
 
 # Project 2
 
-**Title**: Vrinda Sales Report 2022
+**Title**: [Vrinda Sales Report 2022](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Office%20Equipment%20Analysis.xlsx)
 
 **Tools Used**: Microsoft Excel, Pivot Tables, Slicers.
 
@@ -124,6 +124,7 @@ Reduce Order Issues:
 Investigate and resolve causes for canceled and refunded orders to improve customer satisfaction.
 
 **Dashboard Overview**:
+![Vrinda_Sales](Vrinda_Sales.png)
 
 
 
