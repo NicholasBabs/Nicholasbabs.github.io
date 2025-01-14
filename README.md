@@ -1,7 +1,7 @@
 # Nicholasbabs.github.io
 # Project 1
 
-**Title**: Office Supplies and Equipment Company Sales Trends
+**Title**: [Office Supplies and Equipment Company Sales Trends](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Office%20Equipment%20Analysis.xlsx)
 
 **Tools Used**: Microsoft Excel, Pivot Tables, Slicers.
 
@@ -35,8 +35,8 @@ Sales Volatility: Analyzed monthly sales fluctuations to understand market dynam
 This dashboard serves as a crucial tool for the  company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 
-
 **Dashboard Overview**:
+![Office_supplies_and_equipments](Office_supplies_and_equipments.png)
 
 
 
