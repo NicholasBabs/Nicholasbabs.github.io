@@ -103,27 +103,49 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Project Description:** This project involves analyzing pizza sales data stored in a SQL database. The dataset contains detailed information about pizza orders, including order ID, pizza name, category, size, ingredients, price, and order timestamps. The goal is to extract meaningful insights from the data by performing various queries to understand sales performance, customer preferences, and revenue trends.
 
-Use Cases:
+**Use Cases**:
 
-Business Decision Support:
+**Business Decision Support:**
 
 Helps in understanding which pizzas, categories, and sizes are most popular.
 
 Provides insights into seasonal trends and high-performing months.
 
-Revenue and Pricing Analysis:
+**Revenue and Pricing Analysis:**
 
 Highlights high-value pizzas and total revenue generated.
 
-Customer Preferences:
+**Customer Preferences:**
 
 Shows preferences for specific pizza categories, like "Veggie" or "The Spinach Supreme."
 
-Inventory and Ingredient Management:
+**Inventory and Ingredient Management:**
 Assists in tracking frequently ordered pizzas for better inventory planning.
 
 
 **Technology used**: SQL server
+
+# Project 5
+
+**Title:** Football Data- SQL Data Manipulation and Interrogation
+
+**SQL Code:** [Football_data](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Football_data.sql)
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+Window Functions (OVER, PARTITION BY): Performed calculations across table rows related to the current row.
+
+**Project Description:** This project involves the analysis of football player data from a database containing detailed information about players, such as their team, position, height, weight, age, experience level, college, and other relevant statistics. The goal of this project is to generate insightful queries that provide valuable information about the players and their characteristics, helping to make data-driven decisions regarding player performance, team composition, and more.
+
+**Technology used:** SQL server
+
+
 
 
 
