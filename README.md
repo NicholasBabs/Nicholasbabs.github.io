@@ -133,13 +133,50 @@ Investigate and resolve causes for canceled and refunded orders to improve custo
 **SQL Code:**[Sales_Record_SQL_Code](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Sales_Record.sql)
 
 **SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Integration:Use of Joins to help integrate data stored across multiple tables to form a cohesive dataset for analysis.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:** This project focuses on analyzing the relationships between salespersons and customers using SQL queries on a hypothetical database containing tables for salespersons, customers, and orders. The goal is to extract meaningful insights about these relationships and transactions.
+
+**Technology used**: SQL server
+
+# Project 4
+
+**Title:** Pizza Data- SQL Data Manipulation and Interrogation
+
+**SQL Code:** [Pizza_Sales_Record_SQL_Code](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Pizza_sales.sql)
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
 Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
 Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-**Project Description:**This project focuses on analyzing the relationships between salespersons and customers using SQL queries on a hypothetical database containing tables for salespersons, customers, and orders. The goal is to extract meaningful insights about these relationships and transactions.
+**Project Description:** This project involves analyzing pizza sales data stored in a SQL database. The dataset contains detailed information about pizza orders, including order ID, pizza name, category, size, ingredients, price, and order timestamps. The goal is to extract meaningful insights from the data by performing various queries to understand sales performance, customer preferences, and revenue trends.
+Use Cases:
+Business Decision Support:
+
+Helps in understanding which pizzas, categories, and sizes are most popular.
+
+Provides insights into seasonal trends and high-performing months.
+
+Revenue and Pricing Analysis:
+
+Highlights high-value pizzas and total revenue generated.
+
+Customer Preferences:
+
+Shows preferences for specific pizza categories, like "Veggie" or "The Spinach Supreme."
+
+Inventory and Ingredient Management:
+Assists in tracking frequently ordered pizzas for better inventory planning.
+
 
 **Technology used**: SQL server
+
+
+
+
 
 
 
