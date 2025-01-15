@@ -126,6 +126,22 @@ Investigate and resolve causes for canceled and refunded orders to improve custo
 **Dashboard Overview**:
 ![Vrinda_Sales](Vrinda_Sales.png)
 
+# Project 3
+
+**Title:** Sales Record - SQL Data Manipulation and Interrogation
+
+**SQL Code:**[Sales_Record_SQL_Code](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Sales_Record.sql)
+
+**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:**This project focuses on analyzing the relationships between salespersons and customers using SQL queries on a hypothetical database containing tables for salespersons, customers, and orders. The goal is to extract meaningful insights about these relationships and transactions.
+
+**Technology used**: SQL server
+
+
 
 
 
