@@ -1,3 +1,5 @@
+# Nicholasbabs.github.io
+
 # Project 1
 
 **Title**: [Office Supplies and Equipment Company Sales Trends](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Office%20Equipment%20Analysis.xlsx)
