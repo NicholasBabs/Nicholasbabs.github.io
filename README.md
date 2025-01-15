@@ -153,7 +153,9 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:** This project involves analyzing pizza sales data stored in a SQL database. The dataset contains detailed information about pizza orders, including order ID, pizza name, category, size, ingredients, price, and order timestamps. The goal is to extract meaningful insights from the data by performing various queries to understand sales performance, customer preferences, and revenue trends.
+
 Use Cases:
+
 Business Decision Support:
 
 Helps in understanding which pizzas, categories, and sizes are most popular.
