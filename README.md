@@ -1,6 +1,6 @@
 # Nicholasbabs.github.io
 
-# Project 1
+# Project 1 -EXCEL
 
 **Title**: [Office Supplies and Equipment Company Sales Trends](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Office%20Equipment%20Analysis.xlsx)
 
@@ -36,7 +36,10 @@ Top-Performing Products: Highlighted the products such as phones and chairs that
 
 Sales Volatility: Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
 
-# Project 2
+
+
+
+# Project 2 -EXCEL
 
 **Title**: [Vrinda Sales Report 2022](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Office%20Equipment%20Analysis.xlsx)
 
@@ -72,7 +75,7 @@ Optimize E-commerce Channels: Detail strategies to maximize sales on major platf
 
 
 
-# Project 3
+# Project 3 -SQL
 
 **Title:** Sales Record - SQL Data Manipulation and Interrogation
 
@@ -90,7 +93,10 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Technology used**: SQL server
 
-# Project 4
+
+
+
+# Project 4 -SQL
 
 **Title:** Pizza Data- SQL Data Manipulation and Interrogation
 
@@ -125,7 +131,10 @@ Assists in tracking frequently ordered pizzas for better inventory planning.
 
 **Technology used**: SQL server
 
-# Project 5
+
+
+
+# Project 5 - SQL
 
 **Title:** Football Data- SQL Data Manipulation and Interrogation
 
@@ -141,9 +150,52 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 Window Functions (OVER, PARTITION BY): Performed calculations across table rows related to the current row.
 
-**Project Description:** This project involves the analysis of football player data from a database containing detailed information about players, such as their team, position, height, weight, age, experience level, college, and other relevant statistics. The goal of this project is to generate insightful queries that provide valuable information about the players and their characteristics, helping to make data-driven decisions regarding player performance, team composition, and more.
+**Project Description:** This project involves the analysis of football player data from a database containing detailed information about players, such as their team, position, height, weight, age, experience level, college, and other relevant statistics. This project aims to generate insightful queries that provide valuable information about the players and their characteristics, helping to make data-driven decisions regarding player performance, team composition, and more.
 
 **Technology used:** SQL server
+
+
+
+
+# Project 6 - POWER BI
+
+**Title:** Key Performance Indicators
+
+**Dashboard Overview:**
+
+**Tools Used:** Power BI, Slicers, Data Analysis Expressions (DAX)
+
+**Project Description:** Analyzed churn rate data to identify drivers of customer attrition.
+
+**Key findings:**
+
+**Impact of Fibre Optic Services on Revenue and Attrition:**
+
+-Customers using fibre optic services tend to pay higher monthly fees, averaging $92.
+
+-A significant portion of these customers are on month-to-month contracts due to the high cost, making them less likely to commit to long-term contracts.
+
+-This contributes to a higher attrition rate among fibre optic customers, impacting long-term customer retention.
+
+**Demographic Trends and Revenue Sustainability:**
+
+-Older customers are more likely to remain loyal to the company and have a lower attrition rate compared to younger customers.
+
+-However, the majority of older customers are not subscribed to fibre optic services, which generate higher revenue.
+
+-This reliance on a lower-revenue, aging demographic poses a challenge to the company’s long-term revenue sustainability.
+
+**Potential Solutions:**
+
+-Improve customer satisfaction by introducing personalized loyalty programs.
+
+-Enhance customer support with faster response times and dedicated support teams.
+
+-Offer targeted retention strategies, such as exclusive promotions, for at-risk customers identified through data analytics.
+
+
+
+
 
 
 
