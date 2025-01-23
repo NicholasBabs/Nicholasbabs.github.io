@@ -197,6 +197,16 @@ Window Functions (OVER, PARTITION BY): Performed calculations across table rows 
 
 
 
+# Project 7
+
+**Title:** Promotion Rate and Turnover Rate Based on Gender
+
+**Dashboard:** 
+
+
+
+
+
 
 
 
