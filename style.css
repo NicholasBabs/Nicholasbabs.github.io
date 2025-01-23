@@ -1,0 +1,22 @@
+* Dark Theme Customization */
+body {
+  background-color: #121212; /* Dark background */
+  color: #e0e0e0; /* Light text */
+}
+
+a {
+  color: #bb86fc; /* Link color */
+}
+
+a:hover {
+  color: #ff79c6; /* Link hover color */
+}
+
+header, footer {
+  background-color: #1e1e1e; /* Darker header and footer */
+  color: #e0e0e0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff; /* Headings in white */
+}
