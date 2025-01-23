@@ -159,9 +159,10 @@ Window Functions (OVER, PARTITION BY): Performed calculations across table rows 
 
 # Project 6 - POWER BI
 
-**Title:** Key Performance Indicators
+**Title:** [Key Performance Indicators](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Second%20pwc%20file.pbix)
 
-**Dashboard Overview:**
+**Dashboard Overview:** 
+![Kpis_Attrition](Kpis_Attrition.png)
 
 **Tools Used:** Power BI, Slicers, Data Analysis Expressions (DAX)
 
