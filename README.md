@@ -219,6 +219,7 @@ Utilized analytical and problem-solving skills to explore gender-related KPIs wi
 **Gender-Based Hiring Trends:** The "Gender-Based Hiring" chart highlights that men are hired at a higher percentage than women. This could impact organizational diversity goals and gender representation across different roles and departments, as reflected in departmental promotion patterns.
 
 **Potential Solutions:** 
+
 -Implement mentoring programs for women to support their career progression.
 
 -Ensure transparency in promotion and hiring processes to mitigate unconscious bias.
