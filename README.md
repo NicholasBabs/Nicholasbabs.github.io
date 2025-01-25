@@ -197,11 +197,36 @@ Window Functions (OVER, PARTITION BY): Performed calculations across table rows 
 
 
 
-# Project 7
+# Project 7 - POWER BI
 
-**Title:** Promotion Rate and Turnover Rate Based on Gender
+**Title:** [Promotion Rate and Turnover Rate Based on Gender](https://github.com/NicholasBabs/Nicholasbabs.github.io/blob/main/Gender_Inequality.pbix)
 
 **Dashboard:** 
+![Turnover_Rate](Turnover_Rate.png)
+
+**Tools Used:** Power BI, Slicers, Data Analysis Expressions (DAX)
+
+**Project Description:** 
+
+Utilized analytical and problem-solving skills to explore gender-related KPIs within HR data, focusing on understanding disparities at the executive management level. Conducted a deep dive into key metrics such as hiring rates, promotion trends, and retention data to identify root causes behind the slow progress in achieving gender balance. Delivered actionable insights and recommendations to address identified gaps and support organizational diversity goals.
+
+**Key findings:**
+
+**Promotion Disparity by Gender:** Across all job levels, men are consistently promoted at a higher rate than women. This is evident from the "Promotion Rate by Job Level" chart, which shows a noticeable skew in favor of male employees, suggesting potential biases or differences in career progression opportunities.
+
+**Age Distribution and Turnover:** The largest proportion of employees falls within the 20-29 and 30-39 age groups, as seen in the "Age Group" bar chart. This demographic concentration may be influencing the overall turnover rate of 9.40%, indicating the need for retention strategies focused on these age groups.
+
+**Gender-Based Hiring Trends:** The "Gender-Based Hiring" chart highlights that men are hired at a higher percentage than women. This could impact organizational diversity goals and gender representation across different roles and departments, as reflected in departmental promotion patterns.
+
+**Potential Solutions:** 
+-Implement mentoring programs for women to support their career progression.
+
+-Ensure transparency in promotion and hiring processes to mitigate unconscious bias.
+
+-Develop targeted hiring strategies and gender-specific training programs to create a more inclusive leadership pipeline.
+
+
+
 
 
 
